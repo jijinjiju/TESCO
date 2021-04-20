@@ -2,8 +2,13 @@
 """
 Created on Sat Mar 28 15:47:14 2020
 
+LALALA
+<<<<<<< HEAD
 <<<<<<< HEAD
 @author: Jijin A V TEST
+=======
+@author: JijinAV
+>>>>>>> parent of cd2b57f... added testing.py file
 =======
 @author: JijinAV
 >>>>>>> parent of cd2b57f... added testing.py file
